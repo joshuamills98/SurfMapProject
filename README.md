@@ -10,5 +10,6 @@ SurfMapFinal.ino - All the functionality of the arduino is written here from ser
 DEMO: 
 
 Unfortunately this was the only video I got to show of it fully functioning as I had to leave in a rush, but it should show it well enough
-https://user-images.githubusercontent.com/57185163/116960499-e38aa500-ace3-11eb-94bc-6d17385ae811.mp4
+
+[![Watch the video](https://user-images.githubusercontent.com/57185163/116960499-e38aa500-ace3-11eb-94bc-6d17385ae811.mp4)]
 
