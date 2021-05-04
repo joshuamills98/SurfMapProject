@@ -6,3 +6,9 @@ Files:
 arduino_serial.py - Calls all the conditions from the web and live wind readins and sends it to the arduino via serial communication
 
 SurfMapFinal.ino - All the functionality of the arduino is written here from servo motors to show wind direction to the shift register operating 16 LEDs and the LCD display.
+
+DEMO: 
+
+Unfortunately this was the only video I got to show of it fully functioning as I had to leave in a rush, but it should show it well enough
+https://user-images.githubusercontent.com/57185163/116960499-e38aa500-ace3-11eb-94bc-6d17385ae811.mp4
+
