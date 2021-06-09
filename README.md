@@ -7,7 +7,7 @@ The idea behind this project was to have a physical map that would constantly up
 * **arduino_serial.py -** Calls all the conditions from the web and live wind readins and sends it to the arduino via serial communication
 * **SurfMapFinal.ino -** All the functionality of the arduino is written here from servo motors to show wind direction to the shift register operating 16 LEDs and the LCD display.
 
-# DEMO: 
+# Demonstration: 
 
 Unfortunately this was the only video I got to show of it fully functioning as I had to leave in a rush, but it should show it well enough
 
