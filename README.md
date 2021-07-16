@@ -9,7 +9,7 @@ The idea behind this project was to have a physical map that would constantly up
 
 # Demonstration: 
 
-Unfortunately this was the only video I got to show of it fully functioning as I had to leave in a rush. The arrow shows the live swell direction taken from local buoys and the LEDs light up depending on whether the given location will have the right *tide*, *wind* and *swell direction* for it to be fun to surf. An LCD displays other useful information such as *tide height*, *water temperature* and *swell height*. In the demonstration below the wind is blowing from the east and the swell is southerly, hence no spots are working and so no LEDs light up.
+Unfortunately this was the only video I got to show of it fully functioning as I had to leave in a rush. The arrow shows the live swell direction taken from local buoys and the LEDs light up depending on whether the given location will have the right *tide*, *wind* and *swell direction* for it to be fun to surf (the spot is said to be "working" in surf lingo). An LCD displays other useful information such as *tide height*, *water temperature* and *swell height*. In the demonstration below the wind is blowing from the east and the swell is southerly, hence no spots are working and so no LEDs light up.
 
 ![SurfVidGif](https://user-images.githubusercontent.com/57185163/116961187-01590980-ace6-11eb-9022-1296fb13084f.gif)
 
